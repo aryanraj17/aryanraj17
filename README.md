@@ -1,92 +1,68 @@
-<h2 align="left">Hi 👋! My name is Aryan Raj. I am a CS Major student specialising in AI ML.</h2>
+<h1 align="center">Hi there, I'm Aryan Raj 👋</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78F00&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Web+Developer;B.Tech+CSE+Student;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanraj17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanraj17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🧑‍💻 About Me
+- 🎓 B.Tech CSE (AI & ML) student at Galgotias University  
+- 🚀 Exploring Data Science, Web Dev, and Cloud  
+- 🌱 Currently learning MERN stack & Deep Learning  
+- 🔭 Working on: PLANETBEYOND  
+- 💬 Ask me about Web Dev, ML, DSA, Full Stack.  
+- 📫 Reach me at: **aryan02meet@gmail.com**
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRldnp5ZGR6NzE1b2JmaWFuNGgybnJwbmlucWVqa211ZGNrdW16YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+---
 
-###
+### ⚡ My Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/aryanraj____17?igsh=MWxvMGRiY3g5OG1rMw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="aryan02meet@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aryan-raj-1a39a8293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### 📂 Featured Projects
 
-###
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🔗 PlanetBeyond](https://github.com/aryanraj17/planetbeyond) | Space learning platform for students | HTML, CSS, JS, Voiceflow |
+| [🔗 DeepFake Detection](https://github.com/aryanraj17/deepfake-detector) | ML model to detect fake videos & audio | Python, OpenCV, TensorFlow |
+| [🔗 Grievance System](https://github.com/aryanraj17/college-grievance-java) | College complaint portal | Java, JDBC, MySQL |
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/aryanraj17/aryanraj17/output/snake.svg" alt="Snake animation" />
+### 🌐 Let's Connect
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryanraj01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:aryan02meet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://twitter.com/aryanraj17"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
+  <a href="https://instagram.com/aryanraj17"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" /></a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
-###
+### 🔥 GitHub Stats & Contributions
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aryanraj17.aryanraj17&"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanraj17&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanraj17&theme=radical" width="47%" />
+</p>
 
-###
+---
+
+### 🐍 GitHub Contribution Snake
+
+```md
+![snake gif](https://github.com/aryanraj17/aryanraj17/blob/output/github-contribution-grid-snake.svg)
